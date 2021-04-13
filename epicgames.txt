@@ -8,3 +8,4 @@ download2.epicgames.com
 download3.epicgames.com
 download4.epicgames.com
 epicgames-download1.akamaized.net
+epicgames-download1-1251447533.file.myqcloud.com
